@@ -2,6 +2,8 @@
 
 [PDFree](https://pdfree.cyrilpillai.com/) is a simple web application built with Flask that allows users to upload password-protected PDF files and remove their passwords. It provides a user-friendly interface for securely handling sensitive documents without the need for additional software installations. The PDF files are persisted only temporarily and are deleted as soon as their purpose is served.
 
+![Mockup](/assets/mockup.jpg)
+
 ## Features
 
 - Upload password-protected PDF files
